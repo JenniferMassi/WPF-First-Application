@@ -1,0 +1,21 @@
+C:\Users\Jenni\source\repos\WPF First Application\bin\Debug\net6.0-windows\WPF First Application.exe
+C:\Users\Jenni\source\repos\WPF First Application\bin\Debug\net6.0-windows\WPF First Application.deps.json
+C:\Users\Jenni\source\repos\WPF First Application\bin\Debug\net6.0-windows\WPF First Application.runtimeconfig.json
+C:\Users\Jenni\source\repos\WPF First Application\bin\Debug\net6.0-windows\WPF First Application.dll
+C:\Users\Jenni\source\repos\WPF First Application\bin\Debug\net6.0-windows\WPF First Application.pdb
+C:\Users\Jenni\source\repos\WPF First Application\obj\Debug\net6.0-windows\WPF First Application.csproj.AssemblyReference.cache
+C:\Users\Jenni\source\repos\WPF First Application\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Jenni\source\repos\WPF First Application\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Jenni\source\repos\WPF First Application\obj\Debug\net6.0-windows\WPF First Application_MarkupCompile.cache
+C:\Users\Jenni\source\repos\WPF First Application\obj\Debug\net6.0-windows\WPF First Application_MarkupCompile.lref
+C:\Users\Jenni\source\repos\WPF First Application\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Jenni\source\repos\WPF First Application\obj\Debug\net6.0-windows\WPF First Application.g.resources
+C:\Users\Jenni\source\repos\WPF First Application\obj\Debug\net6.0-windows\WPF First Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jenni\source\repos\WPF First Application\obj\Debug\net6.0-windows\WPF First Application.AssemblyInfoInputs.cache
+C:\Users\Jenni\source\repos\WPF First Application\obj\Debug\net6.0-windows\WPF First Application.AssemblyInfo.cs
+C:\Users\Jenni\source\repos\WPF First Application\obj\Debug\net6.0-windows\WPF First Application.csproj.CoreCompileInputs.cache
+C:\Users\Jenni\source\repos\WPF First Application\obj\Debug\net6.0-windows\WPF First Application.dll
+C:\Users\Jenni\source\repos\WPF First Application\obj\Debug\net6.0-windows\refint\WPF First Application.dll
+C:\Users\Jenni\source\repos\WPF First Application\obj\Debug\net6.0-windows\WPF First Application.pdb
+C:\Users\Jenni\source\repos\WPF First Application\obj\Debug\net6.0-windows\WPF First Application.genruntimeconfig.cache
+C:\Users\Jenni\source\repos\WPF First Application\obj\Debug\net6.0-windows\ref\WPF First Application.dll

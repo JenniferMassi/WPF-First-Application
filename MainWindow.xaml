@@ -1,0 +1,27 @@
+﻿<Window x:Class="WPF_First_Application.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_First_Application"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="-81,-96,-144,-48">
+        <Button Content="This is a button" HorizontalAlignment="Left" Margin="458,329,0,0" VerticalAlignment="Top" Height="45" Width="114" Click="Button_Click"/>
+        <TextBox x:Name="txt1" HorizontalAlignment="Left" Margin="366,246,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="43" TextChanged="TextBox_TextChanged"/>
+        <Label Content="Label" HorizontalAlignment="Left" Height="7" Margin="258,130,0,0" VerticalAlignment="Top" Width="13"/>
+        <Label x:Name="lblLetsAddLabel" Content=" LET'S ADD :)" HorizontalAlignment="Left" Margin="481,156,0,0" VerticalAlignment="Top" Width="126" Foreground="#FF81187B" Background="#00000000" FontFamily="Segoe UI Black">
+            <Label.Style>
+                <Style/>
+            </Label.Style>
+        </Label>
+        <Label x:Name="lblEnterTwoNumbers" Content="Enter two numbers to add them together" HorizontalAlignment="Left" Margin="416,187,0,0" VerticalAlignment="Top" Width="382" FontFamily="MS Gothic"/>
+        <TextBox x:Name="txt2" HorizontalAlignment="Left" Margin="547,246,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="43" TextChanged="TextBox_TextChanged"/>
+        <Label Content="+" HorizontalAlignment="Left" Height="43" Margin="506,246,0,0" VerticalAlignment="Top" Width="36" FontSize="22"/>
+        <Label x:Name="lblOutput" Content="" HorizontalAlignment="Left" Margin="416,429,0,0" VerticalAlignment="Top" Width="212"/>
+        <Button x:Name="bttnClear" Content="START OVER" HorizontalAlignment="Left" Margin="458,392,0,0" VerticalAlignment="Top" Height="32" Width="114" Click="Button_Click_1"/>
+
+
+
+    </Grid>
+</Window>
